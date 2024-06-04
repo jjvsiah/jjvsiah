@@ -4,6 +4,8 @@ I'm a second-year penultimate year Computer Science student @ UNSW, passionate a
 # What I'm Up To 🌸
 Currently working on creating a new algorithm for our social platform [u N i ](https://officialuniapp.netlify.app/)for university students. Using a machine learning algorithm to pair up students. Moving past the swiping interface common in these apps
 
+Launching the [OLIM](https://olim.com.au/) [app](https://dev.olim.com.au/) which connects up and coming athletes to their role models + elite athletes 
+
 
 ## ♡ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasiah-haque-85bb49217/)
