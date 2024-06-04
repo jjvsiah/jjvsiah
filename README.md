@@ -2,7 +2,7 @@
 I'm a second-year penultimate year Computer Science student @ UNSW, passionate about exploring the realms of coding, UI/UX design and maching learning.
 
 # What I'm Up To 🌸
-Currently working on creating a new algorithm for our social platform 'u N i' [officialuniapp.netlify.app] for university students. Using a machine learning algorithm to pair up students. 
+Currently working on creating a new algorithm for our social platform [u N i ](https://officialuniapp.netlify.app/)for university students. Using a machine learning algorithm to pair up students. Moving past the swiping interface common in these apps
 
 
 ## ♡ Connect with me:
